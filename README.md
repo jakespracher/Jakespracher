@@ -1,8 +1,10 @@
 👋 I'm Jake
 
-🤖 I'm a programmer and Fractional CTO for early stage startups
+🤖 I'm a programmer and Fractional CTO for early stage startups. I have over a decade of experience writing software, half of which I spent at Apple.
 
 📍 I'm currently based in Norfolk, VA
+
+🌊 I enjoy surfing, hiking, and skateboarding
 
 🎹 I also [produce music](http://linktr.ee/prophi.see)
 
