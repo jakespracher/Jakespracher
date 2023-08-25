@@ -10,6 +10,8 @@
 
 ## Startup Resources
 
+📱 [Software Development for Non-technical Founders](https://www.notion.so/Software-Development-for-Non-technical-Founders-194ea45a39a44be5b7de13eb2891c6ba?pvs=21)
+
 ✅ [Code Review for Startups](https://www.notion.so/Code-Review-for-Startups-1087b5b0eb804efa88bc34aa934ed211?pvs=21) 
 
 ⚙️ [Code review workflow](https://www.notion.so/Code-review-workflow-4a5ab49f5ab547c894423101934a9c8b?pvs=21) 
