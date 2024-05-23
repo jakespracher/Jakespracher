@@ -18,7 +18,7 @@
 
 ## Recent Projects
 
-[👨‍👩‍👦 Grayrock - Co-parenting AI Mediator](👨‍👩‍👦 Grayrock - Co-parenting AI Mediator)
+[👨‍👩‍👦 Grayrock - Co-parenting AI Mediator](https://joingrayrock.com)
 
 [💻 757 Build Weekend](https://757startupstudios.notion.site/757-Build-Weekend-1e255c587c1544cfbc742ba8dc21c0c8)
 
