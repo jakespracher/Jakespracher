@@ -18,10 +18,15 @@
 
 ## Recent Projects
 
+[👨‍👩‍👦 Grayrock - Co-parenting AI Mediator](👨‍👩‍👦 Grayrock - Co-parenting AI Mediator)
+
+[💻 757 Build Weekend](https://757startupstudios.notion.site/757-Build-Weekend-1e255c587c1544cfbc742ba8dc21c0c8)
+
 [🚨 founderpeptalks.com](http://founderpeptalks.com)
 
 [🎛️ ML Synth Preset Generator](https://github.com/jakespracher/ml-synth-preset-generator)
 
+[🎹 Filtering MIDI Pitch Bend Messages with Arduino](https://jakespracher.medium.com/filtering-midi-pitch-bend-messages-using-arduino-b2dfdfd9ec80)
 
 ## ✉️ Connect With Me
 [**LinkedIn**](http://linkedin.com/in/jakespracher/) [**Twitter**](http://twitter.com/jakespracher) [**Medium**](https://medium.com/@jakespracher)
